@@ -1,5 +1,5 @@
 # Tokenizer
-##Enter the code to tokenize: ali = b+y
+# Enter the code to tokenize: ali = b+y
 
 ## Tokens:
 ## ('IDENTIFIER', 'a')
